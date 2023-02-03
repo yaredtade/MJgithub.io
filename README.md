@@ -9,6 +9,6 @@ The sun became dark when it saw its <a href="https://en.wikipedia.org/wiki/Jesus
 
 <b><a href="https://medhanealem.freetzi.com/Last%20Supper.html">Jesus's page</a></b>
 
-<b><a href="https://yaredtade-turbo-xylophone-v4jp6xjgqjg2xrgr-3000.preview.app.github.dev/Medhanealem">Medhanealem page</a>
+<b><a href="https://yaredtade-turbo-xylophone-v4jp6xjgqjg2xrgr-3000.preview.app.github.dev/Medhanealem.html">Medhanealem page</a>
   
 <b><a href="https://yaredtade-turbo-xylophone-v4jp6xjgqjg2xrgr-3000.preview.app.github.dev/StMariam">Mariam's page
