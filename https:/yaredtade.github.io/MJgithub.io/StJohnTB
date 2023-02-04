@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Saint John The Baptist</title>
 <style>
-body {  padding-right: 15px; background-color: #b5b35c;  text-align: font-family; Arial ,helvetica sans-serif;}
+body {  padding-right: 15px; background-color: #b5b35c;  text-align: font-family; Arial;}
  
 .container {
    margin: auto;
@@ -328,4 +328,4 @@ John 1
   
  
 
-</b></body></html>
+</b></body><html> 
