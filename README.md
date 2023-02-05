@@ -12,3 +12,9 @@ The sun became dark when it saw its <a href="https://en.wikipedia.org/wiki/Jesus
 <b><a href="https://yaredtade.github.io/MJgithub.io/">Medhanealem page</a>
   
 <b><a href="https://yaredtade.github.io/MJgithub.io/StMariam">Mariam's page</a>
+
+[Christian songs](https://youtube.com/embed/4nReVu6rt7E)
+
+[Family](https://photos.app.goog.le/embed/QS1FQpxXbQrgJT6GA)
+
+
