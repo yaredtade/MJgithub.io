@@ -11,4 +11,4 @@ The sun became dark when it saw its <a href="https://en.wikipedia.org/wiki/Jesus
 
 <b><a href="https://yaredtade.github.io/MJgithub.io/">Medhanealem page</a>
   
-<b><a href="https://medhanealem.freetzi.com/SaintMariamogt.html">Mariam's page</a>
+<b><a href="https://yaredtade.github.io/StMariam">Mariam's page</a>
