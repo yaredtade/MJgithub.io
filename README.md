@@ -15,6 +15,6 @@ The sun became dark when it saw its <a href="https://en.wikipedia.org/wiki/Jesus
 
 [Christian songs](https://youtube.com/embed/4nReVu6rt7E)
 
-[Family](https://photos.app.google.com/embed/QS1FQpxXbQrgJT6GA)
+[Family](https://photos.app.goog.le/embed/QS1FQpxXbQrgJT6GA)
 
 
