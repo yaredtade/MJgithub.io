@@ -1,4 +1,75 @@
-
+<!DOCTYPE html>
+<html><head>
+<meta charset="UFT-8">
+<meta name="description" content="John The Baptist">
+<meta name="John The Baptist" "martyr"="" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="John Doe">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saint John The Baptist</title>
+<style>
+body {  padding-right: 15px; background-color: #b5b35c;  text-align:  font-family Arial, Helvetica, sans-serif;}
+ 
+.container {
+   margin: auto;
+   width: 100%;
+}
+ 
+td { vertical-align:top;} 
+ 
+table { 
+  border-collapse: collapse;  
+}
+ 
+h1 { 
+  text-shadow:4px 4px #002147;
+}
+ 
+h2 { 
+  text-shadow:2px 2px #f0fff0;
+}
+ 
+.sidenav {   
+  width: 192px;
+  height: 100%;  
+  position: fixed;  
+  z-index: 1;  
+  padding-top: 0px;  
+  padding-left: 3px; 
+  padding-right: 0px; 
+  background: #002131;  
+  overflow: hidden;  
+   
+}
+ 
+.sidenav a {  
+  padding: 2px;  
+  text-decoration: none;  
+  font-size: 14px;  
+  color: #71a6d2;  
+  display: block;
+}
+ 
+.sidenav a:visited {
+  color: #abd5f5; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+ 
+.sidenav a:hover {  
+  color: #ffffff;
+ 
+}
+ 
+ 
+.main {
+  padding-right: 7px; 
+  padding-left: 7px; 
+  font-size: 18px; 
+  color: #002131; 
+  padding-bottom: 0px; 
+  margin-left: 192px; 
+  padding-top: 0.2px; 
+  background-color: #03b1bf;
   width: 83%;
 }
  
