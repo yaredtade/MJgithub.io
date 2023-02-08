@@ -1,6 +1,8 @@
-# I love Jesus and His Mother Mariam<sup>yared</sup>
+# I love Jesus and His Mother Mariam<sub>Yared</sub>
+![47FAA2A4-7E6A-41E7-BF82-90C7E3930038](https://user-images.githubusercontent.com/124126113/217396968-cb37ac48-0988-4f45-a107-2afbfe403c10.jpeg)
 
 ![CEA635F7-1F14-4950-8CFD-5EB20C012996](https://user-images.githubusercontent.com/124126113/216204434-f5f39d16-bc72-4d3a-a705-a60bcb863867.jpeg)
+
 >The Lamb of God<br>	
 >Who clears the<br> 
 >sins of the world<br>
@@ -13,7 +15,7 @@ The sun became dark when it saw its <a href="https://en.wikipedia.org/wiki/Jesus
   
 <b><a href="https://yaredtade.github.io/MJgithub.io/StMariam">Mariam's page</a>
 
-[Christian songs](https://youtube.com/embed/4nReVu6rt7E)
+[Christian songs](https://youtube.com/embed/4nReVu6rt7E
 
 [Family](https://photos.app.goog.le/embed/QS1FQpxXbQrgJT6GA)
 
