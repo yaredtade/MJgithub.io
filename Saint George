@@ -9,7 +9,7 @@
 body {  background-color: #002147;  text-align: left;  color: powderblue;  font-family: Arial, Helvetica, sans-serif;} td { vertical-align:top;}  
 .container {
    margin: 0 auto;
-   width: 93%;
+   width: 92%;
    position: center;
 }
 
